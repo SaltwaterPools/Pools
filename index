@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Saltwater Pools | York Beach Surf Club</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Roboto', sans-serif;
+      background: #f2f9fb;
+      color: #003049;
+    }
+    header {
+      background: url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e') center/cover no-repeat;
+      height: 70vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 3.5em;
+      background-color: rgba(0, 0, 0, 0.4);
+      padding: 0.5em 1em;
+      border-radius: 10px;
+    }
+    .content {
+      padding: 2em;
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+    .content h2 {
+      color: #0077b6;
+      font-size: 2em;
+      margin-bottom: 0.5em;
+    }
+    .content p {
+      font-size: 1.1em;
+      line-height: 1.6;
+      margin-bottom: 1em;
+    }
+    .pass-options {
+      background: #e0f7fa;
+      padding: 1.5em;
+      border-radius: 10px;
+      margin-top: 2em;
+    }
+    .pass-options h3 {
+      margin-top: 0;
+    }
+    footer {
+      background: #0077b6;
+      color: white;
+      text-align: center;
+      padding: 1em;
+      margin-top: 3em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Saltwater Pools</h1>
+  </header>
+  <div class="content">
+    <h2>Refresh, Relax, Repeat</h2>
+    <p>Welcome to the <strong>Saltwater Pools</strong> at York Beach Surf Club — a serene and stylish destination designed to elevate your summer days. With the breeze of the Atlantic in the air and the saltwater gently lapping, our pools are the perfect spot to soak in the sun or cool off in style.</p>
+
+    <h2>Pool Passes 2025</h2>
+    <div class="pass-options">
+      <h3>Individual Day Pass – $29</h3>
+      <p>Enjoy full-day access to the Saltwater Pools. Available for guests ages 6 and up.</p>
+
+      <h3>Seasonal Pass – $299</h3>
+      <p>Unlimited pool access all season long. Bring one friend or family member with you each visit. Includes 10% off food & drinks at the pool bar.</p>
+
+      <h3>Family Seasonal Pass – $499</h3>
+      <p>Unlimited access for you and up to 5 guests each visit. Perfect for families or summer get-togethers. Includes 10% off food & drinks at the pool bar.</p>
+    </div>
+
+    <h2>Amenities</h2>
+    <p>✓ Heated saltwater pools<br>
+       ✓ Loungers and umbrellas<br>
+       ✓ Poolside bar and café<br>
+       ✓ Family-friendly & adult-friendly zones<br>
+       ✓ Clean showers & changing areas</p>
+
+    <h2>Contact Us</h2>
+    <p>📍 York Beach Surf Club<br>
+       📞 (207) 363-7873<br>
+       📧 info@yorkbeachsurfclub.com</p>
+  </div>
+  <footer>
+    &copy; 2025 York Beach Surf Club | Saltwater Pools
+  </footer>
+</body>
+</html>
